@@ -20,8 +20,10 @@ is as follows:
   * If you arrange several windows you can recall them at the next boot up
   * Has several filters to help display information that is most useful
   * You can display any combination of apps/devs from one to all
-  * You can enable a keep alive capability that will prevent hanging if Hubitat reboots
-
-                                                                                                                          
+  * You can enable a keep alive capability that will prevent hanging if Hubitat
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![image](https://github.com/user-attachments/assets/e3ad71f9-b7f2-4783-9a5e-b994b837f082)
