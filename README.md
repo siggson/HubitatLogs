@@ -21,18 +21,9 @@ is as follows:
   * Has several filters to help display information that is most useful
   * You can display any combination of apps/devs from one to all
   * You can enable a keep alive capability that will prevent hanging if Hubitat
-
-
-
-
-<style>
-.image-container {
-margin-top: 50px; /* Add 20 pixels of space above the image */
-}
-</style>
-<div class="image-container">
+    
+&emsp;
 ![image](https://github.com/user-attachments/assets/e3ad71f9-b7f2-4783-9a5e-b994b837f082)
-</div>
 
 
 
