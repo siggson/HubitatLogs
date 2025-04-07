@@ -1,5 +1,5 @@
 # HubitatLogs
-HubitatLogs.exe is a log and event viewer for Hubitat Elevation development. 
+HubitatLogs.exe is a Windows PC based log and event viewer for Hubitat Elevation development. 
 The viewer that is integrated into Hubitat is resource limited and does not 
 have the capability to view large amounts of logging output for long lengths 
 of time. Several times I have been using the integrated viewer only to have the 
