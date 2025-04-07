@@ -13,6 +13,13 @@ With HubitatLogs.exe you can log for weeks and probably not put a dent into
 the available memory on a PC. A list of some of the capabilities of HubitatLogs 
 is as follows:
 
-  * item one
-  * item two
-  * last one 
+  * Provides seperate windows for logs and events
+  * You can have seperate windows for logging different apps/devs
+  * You can save your session info into files anytime
+  * You can read an archived file into its own seperate window
+  * If you arrange several windows you can recall them at the next boot up
+  * Has several filters to help display information that is most useful
+  * You can display any combination of apps/devs from one to all
+  * You can enable a keep alive capability that will prevent hanging if Hubitat reboots
+
+
