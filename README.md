@@ -26,13 +26,13 @@ is as follows:
 
 
 <style>
-        .image-container {
-            margin-top: 50px; /* Add 20 pixels of space above the image */
-        }
-        </style>
-        <div class="image-container">
-     ![image](https://github.com/user-attachments/assets/e3ad71f9-b7f2-4783-9a5e-b994b837f082)
-        </div>
+.image-container {
+margin-top: 50px; /* Add 20 pixels of space above the image */
+}
+</style>
+<div class="image-container">
+![image](https://github.com/user-attachments/assets/e3ad71f9-b7f2-4783-9a5e-b994b837f082)
+</div>
 
 
 
