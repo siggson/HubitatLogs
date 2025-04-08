@@ -15,7 +15,7 @@ is as follows:
 
   * Provides seperate windows for logs and events
   * You can have seperate windows for logging different apps/devs
-  * You can save your session info into files anytime
+  * You can save your session info into a file anytime
   * You can read an archived file into its own seperate window
   * If you arrange several windows you can recall them at the next boot up
   * Has several filters to help display information that is most useful
